@@ -4,7 +4,7 @@
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Ein interaktiver Quiz-Bot mit mehreren Oberflächen: **Kommandozeile (CLI)**, **grafische Benutzeroberfläche (GUI)** und **Web-App (Streamlit)**. Die Anwendung greift auf die [Open Trivia Database](https://opentdb.com/) zu und unterstützt Kategorien, Schwierigkeitsgrade, Punktestand und Wiederholungsfragen.
+Ein modularer, interaktiver Quiz-Chatbot mit Unterstützung für: **Kommandozeile (CLI)**, **grafische Benutzeroberfläche (GUI)** und **Web-App (Streamlit)**. Das System nutzt lokale oder API-basierte Fragenquellen und dient als prototypische Demonstration eines einfachen Frage-Antwort-Systems. Die Anwendung greift auf die [Open Trivia Database](https://opentdb.com/) zu und unterstützt Kategorien, Schwierigkeitsgrade, Punktestand und Wiederholungsfragen.
 
 ## Voraussetzungen
 
